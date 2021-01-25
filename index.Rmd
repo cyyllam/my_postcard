@@ -1,0 +1,18 @@
+---
+title: "Christy Lam"
+image: "clam.jpg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/"
+  - label: Twitter
+    url: "https://twitter.com/"
+  - label: GitHub
+    url: "https://github.com/"
+  - label: Email
+    url: "mailto:email@email.com"
+output:
+  postcards::jolla
+---
+ 
+I am a data programmer and analyst living in Seattle. 
+Currently I work with the Puget Sound Regional Council. I love Argentine tango and chocolate chip cookies.
